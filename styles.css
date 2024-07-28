@@ -189,3 +189,30 @@
 .hot-deal-img{
     width: 250px;
 }
+
+
+/* instagram-section */
+.instagram-section{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+ 
+}
+.instagram-flower{
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+}
+.instagram-heading{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.instagram-description{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
