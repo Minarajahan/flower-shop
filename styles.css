@@ -48,12 +48,13 @@
 }
 
 .first-btn {
-    padding: 10px 25px;
+    padding: 15px 28px;
     color: white;
     border: none;
     border-radius: 8px;
     background: rgb(229, 84, 115);
     margin-top: 20px;
+    font-size: 16px;
 }
 
 .first-img {
